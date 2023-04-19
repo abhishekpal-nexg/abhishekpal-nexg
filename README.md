@@ -7,7 +7,7 @@
 
 Powered by 
 <p align="top">
-  <img src="https://nexgeniots.com/wp-content/uploads/2021/11/NexGen-Logo_512x380.svg" width="150" height="280"/>
+  <img src="https://nexgeniots.com/wp-content/uploads/2021/11/NexGen-Logo_512x380.svg" width="150"/>
 </p>
 
 <!---
