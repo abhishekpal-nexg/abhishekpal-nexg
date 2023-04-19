@@ -100,7 +100,7 @@ To run this project
 
 Powered by 
 
-<img align="left" width="120" src="https://nexgeniots.com/wp-content/uploads/2021/11/NexGen-Logo_512x380.svg">
+<img align="left" width="80" src="https://nexgeniots.com/wp-content/uploads/2021/11/NexGen-Logo_512x380.svg">
 <!---
 abhishekpal-nexg/abhishekpal-nexg is a ✨ special ✨  epository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
