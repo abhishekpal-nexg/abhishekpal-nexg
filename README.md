@@ -5,8 +5,8 @@
 - 💞️ I’m looking to collaborate on **Any software/solutions in tech**
 
 
- <p align="top" Powered by>
-  <img src="https://nexgeniots.com/wp-content/uploads/2021/11/NexGen-Logo_512x380.svg" width="150"/>
+<p align="top">
+  <img src="https://nexgeniots.com/wp-content/uploads/2021/11/NexGen-Logo_512x380.svg" width="150" alt="Powered by"/>
 </p>
 
 <!---
