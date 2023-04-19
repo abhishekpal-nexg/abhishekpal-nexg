@@ -5,6 +5,6 @@
 - 💞️ I’m looking to collaborate on **Any software/solutions in tech**
 
 <!---
-abhishekpal-nexg/abhishekpal-nexg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+abhishekpal-nexg/abhishekpal-nexg is a ✨ special ✨  <br />repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
