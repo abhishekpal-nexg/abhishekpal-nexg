@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Abhishek Pal**
+- 👋 Hi, I’m **Abhishek**
 - 👨‍💼 I assume a position of a **Product Manager**
 - 👀 I’m interested in **Flutter, Mobile App development, helping businesses grow in tech**
 - 🌱 I’m currently learning **Fresh**, **GPT-4**
